@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Form16 TestSuite">
+  <test thread-count="5" name="Form16 Test Cases">
+    <classes>
+      
+      <class name="com.form16.qa.testcases.ServicePageTest"/>
+      <class name="com.form16.qa.testcases.Form16PageTest"/>
+      
+    </classes>
+  </test> <!-- Form16 Test Cases -->
+</suite> <!-- Form16 Suite -->

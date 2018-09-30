@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+      		
+   
+  	<test  name="LoginPageTest" parallel="false" preserve-order="true"  verbose="2">
+    		<classes>
+      				 <!--<class name="org.myhr.qa.testcases.LoginPageTest"/>-->
+      		</classes>
+       
+       </test> 
+      <!--   <test  name="HomePageTest" parallel="false" preserve-order="true"  verbose="2">	
+        		<classes>	
+      				<class name="org.myhr.qa.testcases.HomePageTest">
+           					<methods>
+           					          <include name="homePageTest"/>
+           					          <include name="servicePageTest"/>
+           					          <include name="clickOnServicesTest"/>
+                    				 <include name="myHrTitleTest"/>    
+           					</methods>
+          		</class>
+          	</classes>
+      </test>  -->
+   <test  name="MyHrPageTest" parallel="false" preserve-order="true"  verbose="2">	
+         <classes>	
+      			<class name="org.myhr.qa.testcases.MyHrPageTest">  
+      			         <methods>
+           					          <include name="createNewRequestTest"/>	
+           					          
+           					         	    
+           					</methods>
+          		</class>    
+    	</classes>
+  </test> 
+  <test  name="MyRequestsPageTest" parallel="false" preserve-order="true"  verbose="2">	
+         <classes>	
+      			<class name="org.myhr.qa.testcases.MyRequestPageTest">  
+      			         <methods>
+           					          <include name="verifyRequestHistory"/>	
+           					           <include name="verifyOpenAllTab"/>	
+           					           <include name="verifyRequestNo"/>	
+           					          
+           					          
+           					         	    
+           					</methods>
+          		</class>    
+    	</classes>
+  </test> 
+  
+  
+  
+</suite> 

@@ -1,0 +1,1401 @@
+2018-07-25 15:29:37,791 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 15:29:40,281 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 15:29:46,134 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 17:40:25,299 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 17:40:27,997 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 17:40:29,193 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 17:40:31,639 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 17:40:31,678 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 17:40:31,678 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 17:40:32,383 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 17:40:32,390 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 17:40:37,039 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 17:42:33,583 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 17:42:35,988 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 17:42:37,149 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 17:42:39,377 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 17:42:39,419 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 17:42:39,419 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 17:42:39,777 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 17:42:39,785 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 17:42:44,431 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:01:02,627 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:01:05,030 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:01:06,244 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:01:08,239 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:01:08,282 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:01:08,283 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:01:08,602 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:01:08,609 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:01:13,257 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:03:21,528 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:03:23,960 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:03:25,167 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:03:27,833 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:03:27,879 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:03:27,879 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:03:28,236 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:03:28,244 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:03:32,897 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:28:48,738 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:28:51,145 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:28:52,316 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:28:54,379 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:28:54,420 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:28:54,420 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:28:54,746 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:28:54,753 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:28:59,393 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:29:58,815 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:30:01,221 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:30:02,390 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:30:04,467 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:30:04,511 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:30:04,512 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:30:04,862 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:30:04,869 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:30:09,517 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:36:55,388 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:36:57,850 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:36:59,019 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:37:01,743 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:37:01,783 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:37:01,783 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:37:02,142 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:37:02,149 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:37:06,798 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 18:43:45,265 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 18:43:47,689 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 18:43:48,882 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 18:43:51,008 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-07-25 18:43:51,047 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-07-25 18:43:51,047 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-07-25 18:43:51,547 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-07-25 18:43:51,554 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-07-25 18:43:56,215 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 19:06:15,054 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 19:06:17,537 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 19:06:18,709 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 19:06:20,982 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-07-25 19:06:41,596 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-07-25 19:06:44,670 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-07-25 19:06:44,671 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-07-25 19:06:44,673 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-07-25 19:06:44,706 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-07-25 19:06:44,729 - org.myhr.qa.testcases.HomePageTest -INFO -  Service page label validated successfully & the value is : true
+2018-07-25 19:06:44,729 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-07-25 19:06:44,731 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-07-25 19:06:46,146 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-07-25 19:06:46,147 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-07-25 19:06:50,821 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 19:07:07,140 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 19:07:09,560 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 19:07:10,772 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 19:07:12,727 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-07-25 19:07:33,279 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-07-25 19:07:36,367 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-07-25 19:07:36,368 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-07-25 19:07:36,370 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-07-25 19:07:36,401 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-07-25 19:07:36,424 - org.myhr.qa.testcases.HomePageTest -INFO -  Service page label validated successfully & the value is : true
+2018-07-25 19:07:36,424 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-07-25 19:07:36,426 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-07-25 19:07:37,444 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-07-25 19:07:37,444 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-07-25 19:07:42,107 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 19:22:31,542 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 19:22:33,976 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 19:22:35,164 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 19:22:37,166 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-07-25 19:22:57,736 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-07-25 19:22:58,808 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-07-25 19:22:58,809 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-07-25 19:22:58,811 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-07-25 19:22:58,843 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-07-25 19:22:58,867 - org.myhr.qa.testcases.HomePageTest -INFO -  Service page label validated successfully & the value is : true
+2018-07-25 19:22:58,868 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-07-25 19:22:58,869 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-07-25 19:22:59,995 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-07-25 19:22:59,996 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-07-25 19:23:04,676 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-25 19:25:00,114 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-25 19:25:02,528 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-25 19:25:03,698 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-25 19:25:05,571 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-07-25 19:25:06,098 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-07-25 19:25:06,131 - org.myhr.qa.testcases.HomePageTest -INFO -  Service page label validated successfully & the value is : true
+2018-07-25 19:25:06,131 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-07-25 19:25:06,138 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-07-25 19:25:07,207 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-07-25 19:25:07,208 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-07-25 19:25:07,212 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-07-25 19:25:08,412 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-07-25 19:25:08,413 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-07-25 19:25:08,415 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-07-25 19:25:31,600 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Form16 successfully
+2018-07-25 19:25:31,601 - org.myhr.qa.testcases.HomePageTest -INFO - Form16 service Icon clicked succesfully
+2018-07-25 19:25:31,602 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnForm16Test 
+2018-07-25 19:25:36,268 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:00:12,872 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:00:15,978 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:00:17,237 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:01:34,838 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:14:11,277 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:14:14,358 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:14:15,590 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:14:21,871 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:14:37,165 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:14:40,210 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:14:41,503 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:14:50,499 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:27:14,166 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:27:17,200 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:27:18,455 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:27:27,658 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:29:13,665 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:29:16,738 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:29:17,971 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:30:35,051 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:31:03,059 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:31:06,129 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:31:07,427 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:32:27,774 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:32:30,862 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:32:32,081 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:33:30,224 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-07-26 15:47:46,251 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-07-26 15:47:48,653 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-07-26 15:47:49,827 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-07-26 15:48:46,474 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 13:10:44,486 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 13:10:47,718 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 13:10:49,077 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 13:11:02,462 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-02 13:11:02,530 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-02 13:11:02,531 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-02 13:11:02,592 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-02 13:11:02,604 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-02 13:11:07,382 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 13:12:20,121 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 13:12:23,152 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 13:12:24,400 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 13:12:36,355 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-02 13:12:36,420 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-02 13:12:36,421 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-02 13:12:37,681 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-02 13:12:37,691 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-02 13:12:42,464 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 13:41:55,249 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 13:41:58,270 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 13:41:59,588 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 13:42:18,517 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-02 13:42:19,103 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-02 13:42:19,393 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-02 13:42:19,395 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-02 13:42:19,411 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-02 13:42:20,541 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-08-02 13:42:20,651 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-02 13:42:20,657 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-02 13:42:22,260 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-02 13:42:22,261 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-02 13:42:22,265 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-08-02 13:42:45,517 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Form16 successfully
+2018-08-02 13:42:45,518 - org.myhr.qa.testcases.HomePageTest -INFO - Form16 service Icon clicked succesfully
+2018-08-02 13:42:45,519 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnForm16Test 
+2018-08-02 13:42:50,312 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:06:53,093 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:06:56,141 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:06:57,406 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:08:27,432 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:08:30,494 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:08:31,775 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:08:37,168 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:09:44,128 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:11:24,738 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:11:27,747 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:11:29,034 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:12:38,182 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:19:33,352 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:19:36,410 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:19:37,741 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:21:07,094 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:21:10,157 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:21:11,605 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:22:11,831 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:48:27,487 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:48:29,908 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:48:31,099 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:48:56,128 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:49:21,340 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:49:23,759 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:49:24,942 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:50:18,400 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 14:53:32,768 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 14:53:35,196 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 14:53:36,379 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 14:54:27,976 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:16:57,646 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:17:00,079 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:17:01,258 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:18:19,116 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:19:22,951 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:19:25,393 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:19:26,575 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:19:48,152 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:20:13,781 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:20:16,199 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:20:17,404 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:21:46,680 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:22:22,789 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:22:25,265 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:22:26,464 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:22:42,438 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:22:58,468 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:23:00,903 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:23:02,080 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:23:19,270 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:25:23,272 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:25:25,740 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:25:26,945 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:26:58,010 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:27:05,393 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:27:07,837 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:27:09,054 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:28:53,403 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 15:30:24,206 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:30:26,653 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:30:27,821 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:32:13,197 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:32:15,737 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:32:16,934 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:37:02,648 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:37:05,107 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:37:06,281 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:38:52,517 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:38:54,963 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:38:56,142 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:42:22,696 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 15:42:25,193 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 15:42:26,350 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 15:44:16,252 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 16:00:10,852 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 16:00:13,637 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 16:00:14,805 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 16:00:40,773 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 16:00:48,382 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 16:00:50,871 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 16:00:52,047 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 16:02:53,846 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 16:28:14,938 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 16:28:17,366 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 16:28:18,563 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 16:29:48,091 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 16:33:47,951 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 16:33:50,402 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 16:33:51,581 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 16:36:00,006 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 17:14:58,522 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 17:15:00,990 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 17:15:02,180 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 17:15:16,607 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-02 17:15:16,649 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-02 17:15:16,649 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-02 17:15:17,163 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-02 17:15:17,170 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-02 17:15:21,845 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-02 17:15:21,848 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 17:15:23,777 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 17:15:24,972 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 17:15:38,460 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-02 17:15:38,950 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-02 17:15:38,982 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-02 17:15:38,982 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-02 17:15:38,985 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-02 17:15:40,981 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-02 17:15:42,161 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-02 17:17:47,913 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 01:01:29,869 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 01:01:33,004 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 01:01:34,314 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 01:01:59,763 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 01:02:16,851 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 01:02:19,848 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 01:02:21,086 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 01:02:46,415 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 01:04:39,295 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 01:04:42,287 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 01:04:43,588 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 01:05:08,940 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 01:05:50,423 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 01:05:54,430 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 01:05:55,715 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 01:06:20,978 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 13:11:43,737 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:11:46,239 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:11:47,423 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:13:51,719 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 13:42:15,273 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:42:17,911 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:42:19,125 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:43:45,386 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 13:45:07,438 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:45:09,864 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:45:11,088 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:46:40,315 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:46:42,736 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:46:43,940 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:49:26,727 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:49:29,174 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:49:30,344 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:52:46,231 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:52:48,636 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:52:49,827 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 13:57:44,684 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 13:57:47,134 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 13:57:48,304 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:02:11,117 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:02:13,562 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:02:14,735 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:03:40,824 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 14:09:55,252 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:09:57,823 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:09:58,985 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:14:44,074 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:14:46,523 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:14:47,702 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:30:20,278 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:30:22,709 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:30:23,883 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:31:49,647 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 14:32:32,555 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:32:34,983 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:32:36,151 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:34:02,025 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 14:42:44,215 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:42:46,641 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:42:47,819 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:42:54,913 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 14:42:54,953 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 14:42:54,954 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 14:42:55,509 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 14:42:55,516 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 14:43:00,183 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 14:43:00,214 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:43:02,167 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:43:03,330 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:43:10,271 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 14:43:10,771 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 14:43:10,810 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 14:43:10,810 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 14:43:10,815 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 14:43:11,703 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-03 14:43:11,703 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-03 14:43:11,706 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-08-03 14:43:34,857 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Form16 successfully
+2018-08-03 14:43:34,857 - org.myhr.qa.testcases.HomePageTest -INFO - Form16 service Icon clicked succesfully
+2018-08-03 14:43:34,857 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnForm16Test 
+2018-08-03 14:43:39,533 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 14:43:39,557 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 14:43:41,530 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 14:43:42,695 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 14:45:08,016 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:09:02,900 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:09:05,323 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:09:06,493 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:09:13,331 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 15:09:13,350 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 15:09:13,358 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 15:09:13,391 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 15:09:13,392 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 15:09:18,050 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:09:18,070 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:09:20,014 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:09:21,174 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:09:28,545 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 15:09:29,039 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 15:09:29,072 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 15:09:29,073 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 15:09:29,076 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 15:10:00,601 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:10:02,983 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:10:04,188 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:10:10,767 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 15:10:10,782 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 15:10:10,788 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 15:10:10,821 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 15:10:10,822 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 15:10:15,484 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:10:15,503 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:10:17,504 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:10:18,680 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:10:25,913 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 15:10:26,431 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 15:10:26,466 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 15:10:26,467 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 15:10:26,470 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 15:10:28,358 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-03 15:10:28,359 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-03 15:10:28,360 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-08-03 15:10:51,525 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Form16 successfully
+2018-08-03 15:10:51,525 - org.myhr.qa.testcases.HomePageTest -INFO - Form16 service Icon clicked succesfully
+2018-08-03 15:10:51,525 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnForm16Test 
+2018-08-03 15:10:56,208 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:10:56,223 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:10:58,173 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:10:59,333 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:13:25,861 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:22:55,542 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:22:57,980 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:22:59,160 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:23:06,637 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 15:23:06,679 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 15:23:06,679 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 15:23:06,684 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 15:23:06,691 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 15:23:11,352 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:23:11,374 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:23:13,329 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:23:14,490 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:23:21,461 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 15:23:21,965 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 15:23:22,014 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 15:23:22,015 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 15:23:22,020 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 15:23:23,519 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-03 15:23:23,519 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-03 15:23:23,521 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-08-03 15:34:36,550 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:34:38,989 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:34:40,180 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:34:46,889 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 15:34:46,929 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 15:34:46,930 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 15:34:47,490 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 15:34:47,498 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 15:34:52,171 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:34:52,193 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:34:54,139 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:34:55,305 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:35:02,151 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 15:35:02,648 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 15:35:02,695 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 15:35:02,696 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 15:35:02,700 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 15:35:03,732 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-03 15:35:03,732 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-03 15:35:03,733 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnForm16Test 
+2018-08-03 15:35:26,908 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Form16 successfully
+2018-08-03 15:35:26,908 - org.myhr.qa.testcases.HomePageTest -INFO - Form16 service Icon clicked succesfully
+2018-08-03 15:35:26,908 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnForm16Test 
+2018-08-03 15:35:31,592 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 15:35:31,603 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 15:35:33,540 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 15:35:34,705 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 15:38:01,330 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 18:56:09,817 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 18:56:12,924 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 18:56:14,147 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 18:56:26,649 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-03 18:56:26,729 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-03 18:56:26,729 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-03 18:56:27,711 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-03 18:56:27,722 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-03 18:56:32,526 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 18:56:32,574 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 18:56:34,812 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 18:56:36,072 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 18:56:48,688 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-03 18:56:49,359 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-03 18:56:49,645 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-03 18:56:49,646 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-03 18:56:49,654 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-03 18:56:50,599 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-03 18:56:50,599 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-03 18:56:55,410 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 18:56:55,447 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 18:56:57,705 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 18:56:58,966 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 18:58:32,128 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 20:52:32,496 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 20:52:35,534 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 20:52:36,817 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 20:53:02,192 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 20:53:02,278 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 20:53:04,549 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 20:53:05,806 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 20:53:30,600 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 20:53:30,636 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 20:53:32,904 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 20:53:34,134 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 20:53:58,987 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:54:48,982 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:54:52,106 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:54:53,387 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:55:18,672 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:55:18,739 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:55:21,004 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:55:22,229 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:55:47,008 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:55:47,050 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:55:49,308 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:55:50,569 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:56:15,394 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:56:38,988 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:56:41,972 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:56:43,245 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:57:08,543 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:57:08,590 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:57:10,827 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:57:12,072 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:59:13,595 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:59:16,569 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:59:17,805 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 22:59:43,133 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 22:59:43,217 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 22:59:45,475 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 22:59:46,701 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 23:00:16,825 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 23:00:19,874 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 23:00:21,173 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 23:00:45,987 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-03 23:01:36,378 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-03 23:01:41,423 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-03 23:01:42,657 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-03 23:02:07,560 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:51:59,642 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:52:02,793 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:52:04,060 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:52:29,385 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:52:29,449 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:52:31,814 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:52:33,033 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:53:04,135 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:53:04,164 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:53:06,416 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:53:07,630 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:53:32,970 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:54:02,333 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:54:05,331 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:54:06,601 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:54:07,081 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-04 11:54:28,478 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:54:31,474 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:54:32,703 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:54:58,122 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:54:58,183 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:55:50,358 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:55:53,476 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:55:54,694 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:56:20,161 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-04 11:56:20,210 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:57:55,160 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-04 11:57:58,295 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-04 11:57:59,588 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-04 11:58:24,438 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:08:29,105 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:08:32,282 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:08:33,502 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:08:59,067 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:08:59,116 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:09:01,370 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:09:02,625 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:09:24,494 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:09:27,516 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:09:28,728 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:09:54,102 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:09:54,165 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:09:56,434 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:09:57,709 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:10:17,772 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:10:18,362 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:10:18,447 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:10:18,448 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:10:18,456 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:10:19,546 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:10:19,547 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:10:24,339 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:10:24,355 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:10:26,585 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:10:27,785 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:12:05,782 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:13:35,099 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:13:38,150 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:13:39,440 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:14:04,873 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:14:04,936 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:14:17,737 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:14:20,818 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:14:22,069 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:14:28,161 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 13:14:33,493 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:14:39,311 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:14:42,350 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:14:43,599 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:15:02,677 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 13:15:02,749 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 13:15:02,749 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 13:15:03,563 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 13:15:03,577 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 13:15:08,349 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:15:19,203 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:15:22,250 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:15:23,551 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:15:35,919 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 13:15:35,989 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 13:15:35,989 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 13:15:36,907 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 13:15:36,919 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 13:15:41,687 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:15:41,735 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:15:44,028 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:15:45,254 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:16:03,065 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:16:03,650 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:16:03,708 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:16:03,708 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:16:03,713 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:16:04,929 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:16:04,929 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:16:09,709 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:16:09,725 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:16:12,008 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:16:13,247 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:19:44,370 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:19:47,463 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:19:48,739 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:20:13,550 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:20:13,601 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:20:15,875 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:20:37,581 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:20:40,737 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:20:41,974 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:20:57,549 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:20:58,149 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:20:58,424 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:20:58,425 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:20:58,437 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:20:59,758 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:20:59,759 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:21:04,565 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:21:04,582 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:21:06,884 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:21:08,139 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:23:05,462 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:23:08,542 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:23:09,787 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:23:23,578 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-06 13:23:27,741 - org.myhr.qa.testcases.HomePageTest -INFO - Clicked on Service page successfully
+2018-08-06 13:23:27,898 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-06 13:23:27,910 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:23:27,964 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:23:28,006 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:23:28,007 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:23:28,011 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:23:28,062 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:23:28,063 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:23:32,855 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:33:44,870 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:33:48,011 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:33:49,277 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:33:59,522 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:34:00,011 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:34:00,045 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:34:00,045 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:34:00,052 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:34:01,025 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:34:01,028 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:34:05,728 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:34:05,730 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:34:07,766 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:41:50,503 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:41:53,034 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:41:54,256 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:42:02,945 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:42:03,431 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:42:03,465 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:42:03,466 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:42:03,475 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:42:04,690 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:42:04,693 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:42:09,409 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:42:09,412 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:45:04,675 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:45:07,192 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:45:08,446 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:45:15,582 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:45:16,083 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:45:21,231 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:45:21,232 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:45:21,249 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:45:21,280 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:45:21,280 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:45:26,001 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:45:26,004 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:48:31,056 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:48:49,455 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:48:51,942 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:48:53,191 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:49:00,754 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:49:01,264 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:49:01,299 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:49:01,300 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:49:01,310 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:49:02,531 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:49:02,540 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:49:07,232 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:49:07,252 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:49:09,258 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:58:41,241 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:58:43,763 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:58:45,026 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:58:51,669 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 13:58:51,713 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 13:58:51,714 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 13:58:52,228 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 13:58:52,236 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 13:58:56,939 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:58:56,945 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:58:58,925 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:59:00,128 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 13:59:06,902 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 13:59:07,413 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 13:59:07,447 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 13:59:07,447 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 13:59:07,450 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 13:59:08,585 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 13:59:08,586 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 13:59:08,608 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-06 13:59:11,680 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-08-06 13:59:11,772 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-06 13:59:16,468 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 13:59:16,469 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 13:59:18,420 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 13:59:19,626 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:00:45,549 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:04:45,315 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:04:47,756 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:04:48,973 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:04:57,210 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 14:04:57,252 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 14:04:57,252 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 14:04:57,814 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 14:04:57,822 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 14:05:02,515 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:05:02,519 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:05:04,480 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:05:05,666 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:05:12,485 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 14:05:12,997 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 14:05:13,043 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 14:05:13,044 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 14:05:13,047 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:05:15,076 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:05:16,268 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:07:35,082 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:07:37,495 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:07:38,732 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:07:45,582 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 14:07:45,621 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 14:07:45,622 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 14:07:46,164 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 14:07:46,171 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 14:07:50,862 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:07:50,867 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:07:52,868 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:07:54,087 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:08:00,879 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 14:08:01,395 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 14:08:01,443 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 14:08:01,444 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 14:08:01,447 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:08:03,686 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:08:04,876 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:08:33,309 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:08:35,750 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:08:36,941 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:08:43,848 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 14:08:43,885 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 14:08:43,885 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 14:08:44,424 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 14:08:44,432 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 14:08:49,134 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:08:49,135 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:08:51,094 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:08:52,294 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:08:59,327 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 14:08:59,844 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 14:08:59,893 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 14:08:59,893 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 14:08:59,897 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 14:09:00,827 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 14:09:00,827 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 14:09:05,489 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:09:05,492 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:09:07,419 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:09:08,648 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:10:36,414 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:20:32,289 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:20:34,781 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:20:36,052 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:20:43,310 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-06 14:20:43,353 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-06 14:20:43,353 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-06 14:20:43,873 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-06 14:20:43,879 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-06 14:20:48,549 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:20:48,553 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:20:50,550 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:20:51,742 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:20:58,401 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-06 14:21:01,971 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-08-06 14:21:02,048 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-06 14:21:02,051 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-06 14:21:02,082 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-06 14:21:02,104 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-06 14:21:02,105 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homeLabelTest 
+2018-08-06 14:21:02,107 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-06 14:21:02,135 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-06 14:21:02,136 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-06 14:21:06,838 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:21:06,841 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:21:08,848 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:21:10,057 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:22:35,973 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:24:10,851 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:24:13,309 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:24:14,544 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:25:40,954 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:26:53,196 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:26:55,656 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:26:56,879 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:28:23,348 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 14:30:18,072 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 14:30:20,511 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 14:30:21,704 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 14:31:48,044 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 16:30:48,261 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 16:30:51,321 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 16:30:52,620 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 16:32:26,113 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 16:35:59,950 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 16:36:02,982 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 16:36:04,295 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 16:37:21,627 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 23:41:29,581 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 23:41:32,771 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 23:41:34,042 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 23:41:59,635 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-06 23:42:19,061 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-06 23:42:22,064 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-06 23:42:23,331 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-06 23:42:48,514 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-10 14:43:24,093 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-10 14:43:27,002 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-10 14:43:28,286 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-10 14:44:39,938 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-15 12:12:36,826 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:12:41,255 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:12:42,528 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:18:28,039 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:18:31,078 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:18:32,311 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:27:00,988 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:27:04,002 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:27:05,281 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:27:30,620 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-15 12:29:12,867 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:29:15,924 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:29:17,189 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:29:42,501 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-15 12:31:36,452 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:31:39,556 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:31:40,856 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:32:26,228 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-15 12:32:59,461 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-15 12:33:02,478 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-15 12:33:03,736 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-15 12:33:49,088 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 14:46:35,256 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 14:46:38,653 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 14:46:39,886 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 14:46:47,674 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-17 14:47:55,546 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 14:47:57,986 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 14:47:59,193 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 14:48:06,853 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-17 14:48:06,927 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-17 14:48:06,927 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-17 14:48:08,130 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-17 14:48:08,138 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-17 14:48:12,841 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 14:52:48,916 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 14:52:51,342 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 14:52:52,543 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 14:53:00,853 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-17 14:53:43,911 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-08-17 14:54:24,293 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-17 14:55:05,256 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-17 14:55:06,890 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-17 14:55:06,891 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-17 14:55:14,702 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 14:57:55,119 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 14:57:57,571 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 14:57:58,779 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 14:58:12,539 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 14:59:36,140 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 14:59:38,556 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 14:59:39,731 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 14:59:53,734 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:00:50,730 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:00:53,190 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:00:54,366 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:01:07,389 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:49:53,246 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:49:55,699 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:49:56,878 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:50:09,955 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:52:16,023 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:52:18,462 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:52:19,633 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:52:33,359 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:52:53,321 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:52:55,793 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:52:56,970 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:53:09,994 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:53:45,177 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:53:47,639 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:53:48,819 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:54:02,386 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:54:35,258 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:54:37,695 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:54:38,891 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:54:51,541 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:58:05,949 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:58:08,468 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:58:09,673 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:58:23,976 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 15:59:30,532 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 15:59:32,972 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 15:59:34,179 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 15:59:41,745 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-17 15:59:41,790 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-17 15:59:41,791 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-17 15:59:42,336 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-17 15:59:42,344 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-17 15:59:47,026 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 16:32:35,854 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 16:32:38,529 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 16:32:39,734 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 16:32:52,694 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 16:34:45,506 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 16:34:47,938 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 16:34:49,146 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 16:35:02,129 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-17 16:36:43,328 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-17 16:36:45,760 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-17 16:36:46,968 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-17 16:37:03,560 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-18 12:01:12,811 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-18 12:01:16,273 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-18 12:01:17,596 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-18 12:02:03,151 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-18 12:49:31,059 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-18 12:49:34,081 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-18 12:49:35,404 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 14:50:10,133 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 14:50:13,019 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 14:50:14,255 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 14:50:22,067 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting hrServicelogoTest 
+2018-08-23 14:50:22,106 - org.myhr.qa.testcases.LoginPageTest -INFO - Logo validated successfully and  the value is :-true
+2018-08-23 14:50:22,106 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending hrServicelogoTest 
+2018-08-23 14:50:23,174 - org.myhr.qa.testcases.LoginPageTest -INFO -  Starting loginPageTitleTest 
+2018-08-23 14:50:23,181 - org.myhr.qa.testcases.LoginPageTest -INFO -  Ending loginPageTitleTest 
+2018-08-23 14:50:27,866 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 14:50:43,893 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 14:50:46,371 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 14:50:47,549 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:35:44,269 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:35:47,291 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:35:48,619 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:41:49,330 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:41:52,419 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:41:53,638 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:42:06,847 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-23 15:42:52,200 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 15:42:52,244 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:42:54,540 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:42:55,787 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:55:27,455 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:55:30,478 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:55:31,751 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:55:46,425 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-23 15:55:47,026 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-23 15:55:47,122 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-23 15:55:47,123 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homePageTest 
+2018-08-23 15:55:50,371 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-23 15:55:53,460 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-08-23 15:55:53,563 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-23 15:55:53,568 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-23 15:55:53,631 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-23 15:55:53,632 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-23 15:55:58,428 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 15:56:22,482 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:56:25,591 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:56:26,842 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:56:41,079 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-23 15:56:43,149 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-23 15:56:43,149 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-23 15:56:47,922 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 15:56:47,955 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:56:50,207 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:56:51,443 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:57:37,956 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 15:58:29,255 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:58:32,328 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:58:33,613 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 15:58:47,572 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-23 15:58:49,426 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-23 15:58:49,427 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-23 15:58:54,213 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 15:58:54,250 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 15:58:56,507 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 15:58:57,735 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:00:44,861 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:00:48,029 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:00:49,256 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:01:03,230 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-08-23 16:01:04,221 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-08-23 16:01:04,302 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-08-23 16:01:04,303 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homePageTest 
+2018-08-23 16:01:07,533 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-08-23 16:01:10,612 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-08-23 16:01:10,728 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-08-23 16:01:10,735 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-08-23 16:01:10,791 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-08-23 16:01:10,792 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-08-23 16:01:15,597 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:01:15,634 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:01:17,900 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:01:19,125 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:02:05,568 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:11:36,283 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:11:39,358 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:11:40,649 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:12:27,521 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:33:36,001 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:33:39,206 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:33:40,477 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:34:03,769 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:35:36,404 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:35:39,488 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:35:40,764 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:36:04,692 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:36:51,567 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:36:54,636 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:36:55,922 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:38:22,688 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:45:52,376 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:45:55,444 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:45:56,675 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:48:14,497 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 16:48:33,761 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:48:36,951 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:48:38,239 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 16:59:45,112 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 16:59:48,219 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 16:59:49,497 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 17:51:35,937 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 17:51:39,176 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 17:51:40,493 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 17:53:56,779 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:18:28,659 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:18:31,894 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:18:33,181 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:20:28,237 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:22:56,480 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:22:59,674 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:23:00,995 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:24:55,747 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:28:17,318 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:28:20,352 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:28:21,633 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:30:16,015 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:31:34,180 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:31:46,416 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:31:47,667 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:33:42,465 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:37:24,702 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:37:27,880 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:37:29,133 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:39:23,905 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-23 19:42:20,482 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-23 19:42:23,587 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-23 19:42:24,838 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-23 19:44:19,654 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 14:55:40,702 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 14:55:43,548 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 14:55:44,781 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 14:57:33,375 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:01:12,713 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:01:15,203 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:01:16,390 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:03:03,499 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:13:06,467 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:13:08,918 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:13:10,072 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:14:09,534 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:14:36,256 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:14:38,696 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:14:39,903 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:15:39,828 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:18:31,845 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:18:34,343 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:18:35,530 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:19:35,510 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:25:09,086 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:25:11,600 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:25:12,779 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:27:00,005 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-08-24 15:40:33,297 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-08-24 15:40:35,715 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-08-24 15:40:36,892 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-08-24 15:41:37,127 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:03:20,819 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:03:23,317 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:03:24,554 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:03:26,813 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-09-05 12:03:27,361 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-09-05 12:03:27,402 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-09-05 12:03:27,403 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homePageTest 
+2018-09-05 12:03:30,584 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-09-05 12:03:33,659 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-09-05 12:03:33,773 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-09-05 12:03:33,776 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-09-05 12:03:33,813 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-09-05 12:03:33,814 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-09-05 12:03:34,998 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:08:29,462 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:08:31,937 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:08:33,157 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:09:23,670 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:11:36,450 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:11:38,903 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:11:40,151 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:12:50,954 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:15:40,156 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:15:42,607 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:15:43,838 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:16:55,409 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:17:51,961 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:17:54,406 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:17:55,628 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:19:05,880 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:22:42,697 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:22:45,150 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:22:46,374 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:23:56,531 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:27:43,959 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:27:46,394 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:27:47,669 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:28:57,904 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:30:46,867 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:30:49,300 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:30:50,468 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:32:00,739 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:36:49,032 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:36:51,471 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:36:52,642 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:38:02,684 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:39:13,303 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:39:15,764 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:39:16,934 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:40:27,084 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:41:13,510 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:41:15,931 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:41:17,096 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:42:31,299 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:48:10,469 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:48:12,879 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:48:14,102 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:50:15,769 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 12:52:58,300 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:53:00,702 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:53:01,873 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:55:35,454 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 12:55:37,899 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 12:55:39,083 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 12:57:35,932 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 12:57:35,958 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 12:58:20,979 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 13:01:54,803 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:01:57,218 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:01:58,422 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:03:56,514 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 13:03:56,540 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 13:04:41,576 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 13:12:01,267 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:12:03,686 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:12:04,906 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:14:01,724 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 13:14:01,749 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 13:14:46,792 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 13:29:36,862 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:29:39,294 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:29:40,470 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:31:37,705 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 13:31:37,731 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 13:32:22,789 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 13:32:57,327 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:32:59,776 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:33:00,964 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:34:32,918 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:34:35,351 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:34:36,568 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:38:27,197 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 13:38:29,638 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 13:38:30,811 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 13:40:42,702 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 13:40:42,728 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 13:41:27,708 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 14:46:52,253 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 14:46:54,709 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 14:46:55,908 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 14:56:36,875 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 14:56:39,309 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 14:56:40,481 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 14:57:48,134 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 14:57:50,588 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 14:57:51,773 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:08:27,444 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:08:29,934 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:08:31,140 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:12:55,693 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:12:58,218 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:12:59,422 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:13:01,577 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-09-05 15:14:55,586 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:14:58,006 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:14:59,213 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:15:01,549 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-09-05 15:15:40,753 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:15:43,197 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:15:44,372 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:22:05,034 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:22:07,478 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:22:08,650 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:22:16,576 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 15:24:42,095 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:24:44,615 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:24:45,772 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:31:46,787 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 15:31:49,210 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 15:31:50,383 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 15:31:57,700 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 16:22:54,944 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 16:22:57,415 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 16:22:58,626 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 16:25:11,239 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 16:25:11,266 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 16:25:56,493 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 16:31:42,861 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 16:31:45,343 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 16:31:46,529 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 16:33:58,802 - org.myhr.qa.base.TestBase -INFO - All Tab selected by default  and  the value is :-true
+2018-09-05 16:33:58,827 - org.myhr.qa.base.TestBase -INFO - Open Tab validated successfully and  the value is :-true
+2018-09-05 16:34:44,108 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 16:37:11,209 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 16:37:13,636 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 16:37:14,841 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 16:38:28,811 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 16:49:38,933 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 16:49:41,334 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 16:49:42,546 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 16:49:45,036 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting homeLabelTest 
+2018-09-05 16:49:45,803 - org.myhr.qa.testcases.HomePageTest -INFO - Navigated to Home page successfully & the value is : true
+2018-09-05 16:49:45,870 - org.myhr.qa.testcases.HomePageTest -INFO -  Services page label validated successfully & the value is : true
+2018-09-05 16:49:45,871 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending homePageTest 
+2018-09-05 16:49:49,013 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting clickOnServiceTest 
+2018-09-05 16:49:52,050 - org.myhr.qa.testcases.HomePageTest -INFO - clicked on Service successfully
+2018-09-05 16:49:52,116 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending clickOnServiceTest 
+2018-09-05 16:49:52,119 - org.myhr.qa.testcases.HomePageTest -INFO -  Starting myHrTitleTest 
+2018-09-05 16:49:52,160 - org.myhr.qa.testcases.HomePageTest -INFO - myHR title verified successfully & the value is : true
+2018-09-05 16:49:52,160 - org.myhr.qa.testcases.HomePageTest -INFO -  Ending myHRTitleTest 
+2018-09-05 16:49:57,065 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 17:02:30,626 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:02:33,067 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:02:34,281 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:03:48,557 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 17:04:25,089 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:04:27,485 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:04:28,702 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:05:43,116 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 17:06:01,437 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:06:03,906 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:06:05,090 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:07:49,926 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:07:52,589 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:07:53,794 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:08:37,130 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:08:39,646 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:08:40,844 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:10:41,480 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:10:43,917 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:10:45,102 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:13:58,221 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 17:14:00,698 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 17:14:01,910 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 17:16:40,933 - org.myhr.qa.base.TestBase -INFO - all Tab selected by default  and  the value is :-true
+2018-09-05 17:16:40,957 - org.myhr.qa.base.TestBase -INFO - openTab unselected by default  and  the value is :-true
+2018-09-05 17:17:26,165 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 18:14:26,899 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 18:14:29,361 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 18:14:30,533 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 18:16:42,696 - org.myhr.qa.base.TestBase -INFO - all Tab selected by default  and  the value is :-true
+2018-09-05 18:16:42,722 - org.myhr.qa.base.TestBase -INFO - openTab unselected by default  and  the value is :-true
+2018-09-05 18:17:27,918 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 18:34:38,721 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 18:34:41,192 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 18:34:42,360 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 18:36:01,840 - org.myhr.qa.base.TestBase -INFO - all Tab selected by default  and  the value is :-true
+2018-09-05 18:36:01,866 - org.myhr.qa.base.TestBase -INFO - openTab unselected by default  and  the value is :-true
+2018-09-05 18:36:47,150 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:05:31,600 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:05:34,071 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:05:35,247 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:06:59,108 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:09:11,967 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:09:14,413 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:09:15,622 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:10:39,380 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:15:42,185 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:15:44,671 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:15:45,849 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:17:11,455 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:25:40,935 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:25:43,412 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:25:44,603 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:27:10,479 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:27:34,616 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:27:37,064 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:27:38,275 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:29:04,837 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:34:30,278 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:34:32,729 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:34:33,878 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:36:01,741 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:40:38,272 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:40:40,725 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:40:41,914 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:42:09,785 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-05 19:44:04,421 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-05 19:44:06,874 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-05 19:44:08,047 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-05 19:45:35,804 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-06 13:43:59,884 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-06 13:44:03,235 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-06 13:44:04,550 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-06 13:45:38,901 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
+2018-09-06 13:54:10,067 - org.myhr.qa.base.TestBase -INFO -  Browser is initialized 
+2018-09-06 13:54:13,242 - org.myhr.qa.base.TestBase -INFO - Creating object of :chrome
+2018-09-06 13:54:14,542 - org.myhr.qa.base.TestBase -INFO - Navigating to : http://webpages.centralindia.cloudapp.azure.com/
+2018-09-06 13:55:43,856 - org.myhr.qa.base.TestBase -INFO -  Browser is closed 
